@@ -26,7 +26,7 @@ This project demonstrates a full-stack web application where users can browse me
 ## 🚀 Setup Instructions  
 1. Clone this repo:
     ```bash
-   git clone https://github.com/your-username/Food-Order-Website.git
+   git clone https://github.com/Dewmini-Kaveesha/Food-Order-Website.git
 2. Move files into your server folder (htdocs/ if using XAMPP).
 3. Create a database food_order in phpMyAdmin.
 4. Import the SQL file from the database/ folder.
